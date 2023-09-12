@@ -12,4 +12,5 @@ require (
 	github.com/OneOfOne/xxhash v1.2.5 // indirect
 	github.com/PuerkitoBio/goquery v1.5.0 // indirect
 	github.com/RoaringBitmap/roaring v0.4.7 // indirect
+)
 	
