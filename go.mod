@@ -7,7 +7,7 @@ require (
 	code.gitea.io/gitea v1.9.0-dev
 	gitea.com/lunny/levelqueue v0.1.0 // indirect
 	gitea.com/macaron/inject v0.0.0-20190805023432-d4c86e31027a
-	gitea.com/macaron/macaron v1.3.2
+	gitea.com/macaron/macaron v1.5.0
 	github.com/BurntSushi/xgb v0.0.0-20160522181843-27f122750802 // indirect
 	github.com/OneOfOne/xxhash v1.2.5 // indirect
 	github.com/PuerkitoBio/goquery v1.5.0 // indirect
